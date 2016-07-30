@@ -12,11 +12,11 @@ Requires
 
 * Python
 * Cookiecutter `brew install cookiecutter` or `pip install cookiecutter`
-* elm (e.g. `brew install elm`)
+* Elm (e.g. `brew install elm`)
 
 Use cookiecutter-java
 ---------------------
 
-``
+`
 cookiecutter https://github.com/m-x-k/cookiecutter-elm
-``
+`
