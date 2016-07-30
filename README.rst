@@ -1,5 +1,5 @@
-cookiecutter-java
-=================
+cookiecutter-elm
+================
 
 .. _cookiecutter: https://github.com/audreyr/cookiecutter
 
