@@ -14,8 +14,8 @@ Requires
 * Cookiecutter *brew install cookiecutter* or *pip install cookiecutter*
 * Elm (e.g. *brew install elm*)
 
-Use cookiecutter-java
----------------------
+Use cookiecutter-elm
+--------------------
 
 *cookiecutter https://github.com/m-x-k/cookiecutter-elm*
 
