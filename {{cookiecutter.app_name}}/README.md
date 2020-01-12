@@ -1,21 +1,23 @@
-# HelloWorld in Elm
+# A simple Elm app
 
-Basic Elm code lives in `helloworld.elm` and relies on the [elm-lang/html][html] library. 
+Basic Elm code lives in `src/Main.elm` and relies on the [elm/html][html] library.
 
 ## Build Instructions
 
 Run the following command from the root of this project:
 
 ```bash
-elm-make helloworld.elm --output index.html
+elm make src/Main.elm --output index.html
 ```
 
-Open `index.html` in your browser or you can even start the application using python:
-```
-pip install SimpleHTTPServer
-python -m SimpleHTTPServer
+Open `index.html` in your browser.
 
-# Open in browser: http://localhost:8000
+## Start a development server
+
+Run the following command from the root of this project:
+
+```bash
+elm reactor
 ```
 
-Type into the input field ("helloworld") to see the text appear!
+Visit `http://localhost:8000` to see your project dashboard.
